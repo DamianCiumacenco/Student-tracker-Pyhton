@@ -57,7 +57,7 @@ MAIN MENU:
 7. Exit
 --------------------------------------------------
 
-STUDENT SUMMARY: Damian
+STUDENT SUMMARY: Student Name
 ==================================================
 Grades: [85.0, 91.0, 78.0, 95.0]
 Average: 87.2
